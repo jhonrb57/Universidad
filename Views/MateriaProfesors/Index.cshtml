@@ -1,0 +1,46 @@
+﻿@model IEnumerable<Universidad.Models.MateriaProfesor>
+
+@{
+    ViewBag.Title = "Asignación de Profesor";
+}
+
+<h2>Asignación de Profesor</h2>
+
+<p>
+    @Html.ActionLink("Asignación", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Materia.Titulo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Profesor.Apellido)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Profesor.Nombre)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Materia.Titulo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Profesor.Apellido)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Profesor.Nombre)
+            </td>
+            <td>
+                @Html.ActionLink("Editar", "Edit", new { id = item.ID }) |
+                @Html.ActionLink("Eliminar", "Delete", new { id = item.ID })
+            </td>
+        </tr>
+    }
+
+</table>
+@Html.ActionLink("Regresar", "IndexAdministrador", "Home")
