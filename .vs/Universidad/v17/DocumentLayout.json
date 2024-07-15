@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JHON\\source\\repos\\Universidad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5262CB7C-6C03-48C8-A461-9537953C0696}|Universidad\\Universidad.csproj|C:\\Users\\JHON\\source\\repos\\Universidad\\universidad\\controllers\\materiaestudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5262CB7C-6C03-48C8-A461-9537953C0696}|Universidad\\Universidad.csproj|solutionrelative:universidad\\controllers\\materiaestudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5262CB7C-6C03-48C8-A461-9537953C0696}|Universidad\\Universidad.csproj|c:\\users\\jhon\\source\\repos\\universidad\\universidad\\data\\universidadentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5262CB7C-6C03-48C8-A461-9537953C0696}|Universidad\\Universidad.csproj|solutionrelative:universidad\\data\\universidadentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5262CB7C-6C03-48C8-A461-9537953C0696}|Universidad\\Universidad.csproj|C:\\Users\\JHON\\source\\repos\\Universidad\\universidad\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5262CB7C-6C03-48C8-A461-9537953C0696}|Universidad\\Universidad.csproj|solutionrelative:universidad\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5262CB7C-6C03-48C8-A461-9537953C0696}|Universidad\\Universidad.csproj|C:\\Users\\JHON\\source\\repos\\Universidad\\universidad\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5262CB7C-6C03-48C8-A461-9537953C0696}|Universidad\\Universidad.csproj|solutionrelative:universidad\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5262CB7C-6C03-48C8-A461-9537953C0696}|Universidad\\Universidad.csproj|C:\\Users\\JHON\\source\\repos\\Universidad\\universidad\\views\\home\\indexestudiante.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5262CB7C-6C03-48C8-A461-9537953C0696}|Universidad\\Universidad.csproj|solutionrelative:universidad\\views\\home\\indexestudiante.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5262CB7C-6C03-48C8-A461-9537953C0696}|Universidad\\Universidad.csproj|C:\\Users\\JHON\\source\\repos\\Universidad\\universidad\\views\\materiaestudiantes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5262CB7C-6C03-48C8-A461-9537953C0696}|Universidad\\Universidad.csproj|solutionrelative:universidad\\views\\materiaestudiantes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5262CB7C-6C03-48C8-A461-9537953C0696}|Universidad\\Universidad.csproj|C:\\Users\\JHON\\source\\repos\\Universidad\\universidad\\controllers\\materiaprofesorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5262CB7C-6C03-48C8-A461-9537953C0696}|Universidad\\Universidad.csproj|solutionrelative:universidad\\controllers\\materiaprofesorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5262CB7C-6C03-48C8-A461-9537953C0696}|Universidad\\Universidad.csproj|C:\\Users\\JHON\\source\\repos\\Universidad\\universidad\\views\\materiaestudiantes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5262CB7C-6C03-48C8-A461-9537953C0696}|Universidad\\Universidad.csproj|solutionrelative:universidad\\views\\materiaestudiantes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5262CB7C-6C03-48C8-A461-9537953C0696}|Universidad\\Universidad.csproj|C:\\Users\\JHON\\source\\repos\\Universidad\\universidad\\views\\materiaestudiantes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5262CB7C-6C03-48C8-A461-9537953C0696}|Universidad\\Universidad.csproj|solutionrelative:universidad\\views\\materiaestudiantes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5262CB7C-6C03-48C8-A461-9537953C0696}|Universidad\\Universidad.csproj|C:\\Users\\JHON\\source\\repos\\Universidad\\universidad\\models\\materiaprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5262CB7C-6C03-48C8-A461-9537953C0696}|Universidad\\Universidad.csproj|solutionrelative:universidad\\models\\materiaprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5262CB7C-6C03-48C8-A461-9537953C0696}|Universidad\\Universidad.csproj|C:\\Users\\JHON\\source\\repos\\Universidad\\universidad\\models\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5262CB7C-6C03-48C8-A461-9537953C0696}|Universidad\\Universidad.csproj|solutionrelative:universidad\\models\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5262CB7C-6C03-48C8-A461-9537953C0696}|Universidad\\Universidad.csproj|C:\\Users\\JHON\\source\\repos\\Universidad\\universidad\\models\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5262CB7C-6C03-48C8-A461-9537953C0696}|Universidad\\Universidad.csproj|solutionrelative:universidad\\models\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MateriaEstudiantesController.cs",
+              "DocumentMoniker": "C:\\Users\\JHON\\source\\repos\\Universidad\\Universidad\\Controllers\\MateriaEstudiantesController.cs",
+              "RelativeDocumentMoniker": "Universidad\\Controllers\\MateriaEstudiantesController.cs",
+              "ToolTip": "C:\\Users\\JHON\\source\\repos\\Universidad\\Universidad\\Controllers\\MateriaEstudiantesController.cs",
+              "RelativeToolTip": "Universidad\\Controllers\\MateriaEstudiantesController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAlwB0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:07:04.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UniversidadEntity.cs",
+              "DocumentMoniker": "C:\\Users\\JHON\\source\\repos\\Universidad\\Universidad\\Data\\UniversidadEntity.cs",
+              "RelativeDocumentMoniker": "Universidad\\Data\\UniversidadEntity.cs",
+              "ToolTip": "C:\\Users\\JHON\\source\\repos\\Universidad\\Universidad\\Data\\UniversidadEntity.cs",
+              "RelativeToolTip": "Universidad\\Data\\UniversidadEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T04:40:50.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\JHON\\source\\repos\\Universidad\\Universidad\\Views\\MateriaEstudiantes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Universidad\\Views\\MateriaEstudiantes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\JHON\\source\\repos\\Universidad\\Universidad\\Views\\MateriaEstudiantes\\Edit.cshtml",
+              "RelativeToolTip": "Universidad\\Views\\MateriaEstudiantes\\Edit.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T07:34:59.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\JHON\\source\\repos\\Universidad\\Universidad\\Views\\MateriaEstudiantes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Universidad\\Views\\MateriaEstudiantes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\JHON\\source\\repos\\Universidad\\Universidad\\Views\\MateriaEstudiantes\\Create.cshtml",
+              "RelativeToolTip": "Universidad\\Views\\MateriaEstudiantes\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T07:12:18.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\JHON\\source\\repos\\Universidad\\Universidad\\Web.config",
+              "RelativeDocumentMoniker": "Universidad\\Web.config",
+              "ToolTip": "C:\\Users\\JHON\\source\\repos\\Universidad\\Universidad\\Web.config",
+              "RelativeToolTip": "Universidad\\Web.config",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAnwFEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-29T21:15:59.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EstudiantesController.cs",
+              "DocumentMoniker": "C:\\Users\\JHON\\source\\repos\\Universidad\\Universidad\\Controllers\\EstudiantesController.cs",
+              "RelativeDocumentMoniker": "Universidad\\Controllers\\EstudiantesController.cs",
+              "ToolTip": "C:\\Users\\JHON\\source\\repos\\Universidad\\Universidad\\Controllers\\EstudiantesController.cs",
+              "RelativeToolTip": "Universidad\\Controllers\\EstudiantesController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAEwA8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T04:43:23.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IndexEstudiante.cshtml",
+              "DocumentMoniker": "C:\\Users\\JHON\\source\\repos\\Universidad\\Universidad\\Views\\Home\\IndexEstudiante.cshtml",
+              "RelativeDocumentMoniker": "Universidad\\Views\\Home\\IndexEstudiante.cshtml",
+              "ToolTip": "C:\\Users\\JHON\\source\\repos\\Universidad\\Universidad\\Views\\Home\\IndexEstudiante.cshtml",
+              "RelativeToolTip": "Universidad\\Views\\Home\\IndexEstudiante.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB4AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T07:08:28.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\JHON\\source\\repos\\Universidad\\Universidad\\Views\\MateriaEstudiantes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Universidad\\Views\\MateriaEstudiantes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\JHON\\source\\repos\\Universidad\\Universidad\\Views\\MateriaEstudiantes\\Index.cshtml",
+              "RelativeToolTip": "Universidad\\Views\\MateriaEstudiantes\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T07:09:20.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MateriaProfesorsController.cs",
+              "DocumentMoniker": "C:\\Users\\JHON\\source\\repos\\Universidad\\Universidad\\Controllers\\MateriaProfesorsController.cs",
+              "RelativeDocumentMoniker": "Universidad\\Controllers\\MateriaProfesorsController.cs",
+              "ToolTip": "C:\\Users\\JHON\\source\\repos\\Universidad\\Universidad\\Controllers\\MateriaProfesorsController.cs",
+              "RelativeToolTip": "Universidad\\Controllers\\MateriaProfesorsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:39:35.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Profesor.cs",
+              "DocumentMoniker": "C:\\Users\\JHON\\source\\repos\\Universidad\\Universidad\\Models\\Profesor.cs",
+              "RelativeDocumentMoniker": "Universidad\\Models\\Profesor.cs",
+              "ToolTip": "C:\\Users\\JHON\\source\\repos\\Universidad\\Universidad\\Models\\Profesor.cs",
+              "RelativeToolTip": "Universidad\\Models\\Profesor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T04:42:02.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MateriaProfesor.cs",
+              "DocumentMoniker": "C:\\Users\\JHON\\source\\repos\\Universidad\\Universidad\\Models\\MateriaProfesor.cs",
+              "RelativeDocumentMoniker": "Universidad\\Models\\MateriaProfesor.cs",
+              "ToolTip": "C:\\Users\\JHON\\source\\repos\\Universidad\\Universidad\\Models\\MateriaProfesor.cs",
+              "RelativeToolTip": "Universidad\\Models\\MateriaProfesor.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T04:41:57.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Materia.cs",
+              "DocumentMoniker": "C:\\Users\\JHON\\source\\repos\\Universidad\\Universidad\\Models\\Materia.cs",
+              "RelativeDocumentMoniker": "Universidad\\Models\\Materia.cs",
+              "ToolTip": "C:\\Users\\JHON\\source\\repos\\Universidad\\Universidad\\Models\\Materia.cs",
+              "RelativeToolTip": "Universidad\\Models\\Materia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T04:41:49.947Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

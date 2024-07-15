@@ -1,0 +1,40 @@
+﻿@model Universidad.Models.MateriaProfesor
+
+@{
+    ViewBag.Title = "Eliminar";
+}
+
+<h2>Eliminar</h2>
+
+<h3>¿Está seguro(a) que quiere eliminar la asignación?</h3>
+<div>
+    <h4>MateriaProfesor</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Materia.Titulo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Materia.Titulo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Profesor.Apellido)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Profesor.Apellido)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Eliminar" class="btn btn-danger" /> |
+            @Html.ActionLink("Regresar", "Index")
+        </div>
+    }
+</div>
