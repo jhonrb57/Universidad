@@ -1,13 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Data;
-using System.Data.Entity;
-using System.Linq;
+﻿using Models;
+using BaseDatos;
 using System.Net;
-using System.Web;
+using System.Data;
+using System.Linq;
 using System.Web.Mvc;
-using Universidad.Data;
-using Universidad.Models;
+using System.Data.Entity;
 
 namespace Universidad.Controllers
 {

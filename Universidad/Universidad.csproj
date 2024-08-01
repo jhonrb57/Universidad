@@ -135,12 +135,6 @@
     <Compile Include="Controllers\MateriaProfesorsController.cs" />
     <Compile Include="Controllers\MateriasController.cs" />
     <Compile Include="Controllers\ProfesorsController.cs" />
-    <Compile Include="Models\Estudiante.cs" />
-    <Compile Include="Models\Materia.cs" />
-    <Compile Include="Models\MateriaEstudiante.cs" />
-    <Compile Include="Models\MateriaProfesor.cs" />
-    <Compile Include="Models\Profesor.cs" />
-    <Compile Include="Data\UniversidadEntity.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -170,8 +164,6 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
-    <Content Include="ScriptsBD\Scrip_Universidad_ddl.sql" />
-    <Content Include="ScriptsBD\Scrip_Universidad_dml.sql" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.esm.js" />
@@ -255,6 +247,16 @@
     <Content Include="Scripts\bootstrap.bundle.js.map" />
     <Content Include="Scripts\jquery-3.4.1.slim.min.map" />
     <Content Include="Scripts\jquery-3.4.1.min.map" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BaseDatos\BaseDatos.csproj">
+      <Project>{ffe4248a-169a-4407-8a2e-391d4e2ae9a5}</Project>
+      <Name>BaseDatos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Models\Models.csproj">
+      <Project>{c33838c9-8073-4f27-94cb-d55de3f8e987}</Project>
+      <Name>Models</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

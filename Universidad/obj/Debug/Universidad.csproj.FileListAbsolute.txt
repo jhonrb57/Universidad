@@ -88,3 +88,8 @@ C:\Users\JHON\source\repos\Universidad\Universidad\bin\EntityFramework.dll
 C:\Users\JHON\source\repos\Universidad\Universidad\bin\EntityFramework.SqlServer.dll
 C:\Users\JHON\source\repos\Universidad\Universidad\bin\EntityFramework.xml
 C:\Users\JHON\source\repos\Universidad\Universidad\bin\EntityFramework.SqlServer.xml
+C:\Users\JHON\source\repos\Universidad\Universidad\bin\BaseDatos.dll
+C:\Users\JHON\source\repos\Universidad\Universidad\bin\Models.dll
+C:\Users\JHON\source\repos\Universidad\Universidad\bin\BaseDatos.pdb
+C:\Users\JHON\source\repos\Universidad\Universidad\bin\BaseDatos.dll.config
+C:\Users\JHON\source\repos\Universidad\Universidad\bin\Models.pdb

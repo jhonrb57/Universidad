@@ -1,0 +1,14 @@
+C:\Users\JHON\source\repos\Universidad\BaseDatos\obj\Debug\BaseDatos.csproj.AssemblyReference.cache
+C:\Users\JHON\source\repos\Universidad\BaseDatos\obj\Debug\BaseDatos.csproj.CoreCompileInputs.cache
+C:\Users\JHON\source\repos\Universidad\BaseDatos\bin\Debug\BaseDatos.dll.config
+C:\Users\JHON\source\repos\Universidad\BaseDatos\bin\Debug\BaseDatos.dll
+C:\Users\JHON\source\repos\Universidad\BaseDatos\bin\Debug\BaseDatos.pdb
+C:\Users\JHON\source\repos\Universidad\BaseDatos\bin\Debug\EntityFramework.dll
+C:\Users\JHON\source\repos\Universidad\BaseDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JHON\source\repos\Universidad\BaseDatos\bin\Debug\Models.dll
+C:\Users\JHON\source\repos\Universidad\BaseDatos\bin\Debug\Models.pdb
+C:\Users\JHON\source\repos\Universidad\BaseDatos\bin\Debug\EntityFramework.xml
+C:\Users\JHON\source\repos\Universidad\BaseDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JHON\source\repos\Universidad\BaseDatos\obj\Debug\BaseDatos.csproj.Up2Date
+C:\Users\JHON\source\repos\Universidad\BaseDatos\obj\Debug\BaseDatos.dll
+C:\Users\JHON\source\repos\Universidad\BaseDatos\obj\Debug\BaseDatos.pdb
